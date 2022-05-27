@@ -1,0 +1,7 @@
+.courseCard{
+    display: flex;
+}
+
+.courseComponents{
+    width: 75%;
+}
